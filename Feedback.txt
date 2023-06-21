@@ -1,0 +1,24 @@
+first i want to thank you for the orginaized work, it shows how much you cares and want to learn.
+Task 1 :
+No Comment, Excellecnt Work.
+
+Task 2 :
+Table is overstreched, you had the right idea but missed the value, make width 50% instead of 100%
+Otherwise Great
+
+Task 3 : 
+we dont want to make the page pink, we want to make it pink when the width is less than 700px
+you can fix that by relocating the body style to the following tag
+@media only screen and (max-width: 700px) {
+  body {
+    background-color: pink;
+  }
+}
+Everything else is perfect
+
+Task 4 :
+Some notes but neglectable,
+you have problems with responsive view,
+you can fix it by adding the following tag to the head
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+Good Work
