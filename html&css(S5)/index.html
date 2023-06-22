@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MyPage5</title>
+</head>
+<body>
+    <h1>Isra' Software & Computer Co</h1>
+    <p id="companyDescription"">Isra' software and comperter company. estableshed in 1997 in Nablus and opened in Rammallah in 2014.</p>
+    <button id="changeStyleButton">change text style</button>
+<br><br>
+     <img id="companyImage" src="" alt="Image" width="50%" >
+     <br>
+    <button id="iscosoftButton">ISCOSOFT</button>
+    <button id="googleButton">GOOGLE</button>
+   <button id="microsoftButton">MICROSOFT</button>
+<p>Clicked button : <span id="Clicked_button"></span></p>
+
+
+    <script>
+        document.getElementById("changeStyleButton").addEventListener("click", function() {
+       var description = document.getElementById("companyDescription");
+        description.style.fontSize = "25px";
+        description.style.color = "blue";
+        description.style.backgroundColor = "yellow";
+    });
+
+var iscosoftButton = document.getElementById("iscosoftButton");
+var googleButton = document.getElementById("googleButton");
+var microsoftButton = document.getElementById("microsoftButton");
+var companyImage = document.getElementById("companyImage");
+var ClickedButton =document.getElementById("Clicked_button");
+
+iscosoftButton.addEventListener("click", function() {
+  companyImage.src = "img/company.png";
+  ClickedButton.textContent = "ISCOSOFT";
+});
+
+googleButton.addEventListener("click", function() {
+  companyImage.src = "img/Google-Logo.png";
+  ClickedButton.textContent = "GOOGLE ";
+
+});
+
+microsoftButton.addEventListener("click", function() {
+  companyImage.src = "img/Microsoft.jpg";
+  ClickedButton.textContent = "MICROSOFT ";
+});
+
+    </script>
+</body>
+</html>
