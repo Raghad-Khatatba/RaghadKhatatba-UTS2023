@@ -21,4 +21,33 @@ Some notes but neglectable,
 you have problems with responsive view,
 you can fix it by adding the following tag to the head
   <meta name="viewport" content="width=device-width, initial-scale=1">
+
+Task5 :
+No Comment, Perfect.
+
+Task 6 : 
+You forgot adding tooltip, 
+i may change your code to the following
+    [title~=iscosoft] {
+      border: 5px solid yellow;
+    }
+instead of
+     .tooltip[data-tooltip="ISCOSOFT"] {
+        border: 5px solid yellow;
+      }
+
+And
+    <img src="company.png" title="iscosoft" >
+instead of
+      <img
+        src="img/company.png"
+        alt="ISCOSOFT"
+        class="tooltip"
+        data-tooltip="ISCOSOFT"
+      />
+
+this adds tooltip, and useit as a selector
+Otherwise,Good Job
+
+
 Good Work
