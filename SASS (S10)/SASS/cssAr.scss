@@ -1,0 +1,27 @@
+@import "cssEn.scss";
+
+$header-bg-color: skyblue;
+$footer-bg-color: skyblue;
+
+h1,
+p,
+li {
+  text-align: right;
+}
+
+.title {
+  width: 70%;
+}
+
+.logo {
+  float: right;
+  margin: 20px;
+}
+
+nav {
+  float: right;
+}
+
+footer p {
+  text-align: center;
+}

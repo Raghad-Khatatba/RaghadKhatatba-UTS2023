@@ -1,0 +1,92 @@
+$header-bg-color: skyblue;
+$footer-bg-color: skyblue;
+$nav-bg-color: #ccc;
+$article-bg-color: #f1f1f1;
+$link-border-color: skyblue;
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+  background-color: $header-bg-color;
+  padding: 30px;
+  text-align: center;
+  font-size: 35px;
+  color: white;
+}
+
+.title {
+  float: left;
+  padding: 20px;
+  width: 80%;
+}
+
+.logo {
+  float: left;
+  width: 20%;
+  padding-top: 70px;
+}
+
+nav {
+  float: left;
+  width: 30%;
+  height: 300px;
+  background: $nav-bg-color;
+  padding: 20px;
+
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+}
+
+article {
+  float: left;
+  padding: 20px;
+  width: 70%;
+  background-color: $article-bg-color;
+  height: 300px;
+}
+
+.clearFex {
+  clear: both;
+}
+
+footer {
+  background-color: $footer-bg-color;
+  padding: 10px;
+  text-align: center;
+  color: white;
+}
+
+a,
+a:visited {
+  background-color: white;
+  color: black;
+  border: 2px solid $link-border-color;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  min-width: 150px;
+}
+
+a:hover,
+a:active {
+  background-color: $link-border-color;
+  color: white;
+}
+
+.logo img {
+  opacity: 0.5;
+  transition: opacity 0.5s;
+
+  &:hover {
+    opacity: 1;
+  }
+}
