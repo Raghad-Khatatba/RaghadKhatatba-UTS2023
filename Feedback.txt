@@ -71,7 +71,18 @@ You made it like the IPhone caluclator, not having all equation on screen then c
 Which is AWESOME. MUCH harder job
 PERFECT WORK.
 
+Task 12 :
+It was a nice touch filling the other field in converting, however,
+the reason the task requried returning when both values are entered became clear in work
+if you enter both valus it skips all the conditions you have and outputs enteredValue1 = enteredValue2
+there are 2 ways to fix this come to mine,
+the easy way, remove filling the other field and add a check if both values are entered.
+the hard way, makes the task complicated, by checking if both values are entered and the converting wasnt right ( it wasn't made by you ) returning error
+And / Or, when changing one value, clear the other field.
+Good Work.
 
+Task 13 :
+No Comment, Perfect.
 
 
 
