@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script src="https://unpkg.com/react@18/umd/react.development.js" crossorigin></script>
+    <script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js" crossorigin></script>
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+    <style>
+        table {
+            border: 1px solid black;
+          width: 100%;
+          margin-top: 30px;
+        }
+        th, td {
+          border: 1px solid black;
+          padding: 8px;
+          text-align: left;
+        }
+        caption {
+      font-weight: bold;
+    }
+      </style>
+  </head>
+  <body>
+
+    <div id="root"></div>
+
+    <script type="text/babel">
+      function MyComponent() {
+        return (
+            <div>
+      <h1>Isra Software & Computer Co.</h1>
+      <p>
+        Isra Software & Computer Co. was established in 1997 in Nablus and opend in Rammallah in 2004 .
+      </p>
+      <table>
+        <caption >Employees List</caption>
+        <thead>
+          <tr>
+            <th>Name</th>
+            <th>Address</th>
+            <th>Age</th>
+            <th>Gender</th>
+            <th>Mobile</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Zaid Khalid</td>
+            <td>Nablus</td>
+            <td>35</td>
+            <td>Male</td>
+            <td>05669352</td>
+          </tr>
+          <tr>
+            <td>Ahmad Mohammad</td>
+            <td>Nablus</td>
+            <td>30</td>
+            <td>Male</td>
+            <td>05669352</td>
+          </tr>
+          <tr>
+            <td>Maia Isa</td>
+            <td>Nablus</td>
+            <td>27</td>
+            <td>Female</td>
+            <td>05669352</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  );
+      }
+
+      const container = document.getElementById('root');
+      const root = ReactDOM.createRoot(container);
+      root.render(<MyComponent />)
+    </script>
+
+  </body>
+</html>
