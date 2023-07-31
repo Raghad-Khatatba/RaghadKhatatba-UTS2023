@@ -109,7 +109,7 @@ Task 19 :
 No Comment, Perfect.
 
 Task 20 :
-This one is missing.
+No Comment, Perfect.
 
 Task 21 :
 No Comment, Perfect.
@@ -122,7 +122,8 @@ For validation works perfect.
 on my device page renders without styling
 although you used the right component
 so i will asume the page is perfect.
-please send me a screenshot of the design you intended to make sure.
+after reviewng the screenshot
+Great Job.
 
 Task 24 :
 No Comment, Perfect.
@@ -130,7 +131,7 @@ No Comment, Perfect.
 Task 25 :
 No Comment, Perfect.
 
-I have done giving feedback for your tasks, expect one missing.
+I have done giving feedback for your tasks.
 your overall perfomance was great.
 soon i will add the mark.
 
