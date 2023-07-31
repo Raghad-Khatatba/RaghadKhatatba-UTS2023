@@ -84,6 +84,72 @@ Good Work.
 Task 13 :
 No Comment, Perfect.
 
+Task 14 :
+No Comment, Perfect.
+
+Task 15 :
+Awesome, AWESOME, Good Job.
+
+Task 16 :
+Good Job Turning a template to your own work.
+Perfect.
+
+Task 17 :
+No Comment, Perfect.
+
+Task 18 :
+Two Comments
+Multiply doesn't work;
+you can fix that by changing the X to *, so the evaluate can calucalte it.
+and a small note about that extra large display;
+you can fix that by changing the width and giving it auto margin.
+Good Job.
+
+Task 19 :
+No Comment, Perfect.
+
+Task 20 :
+This one is missing.
+
+Task 21 :
+No Comment, Perfect.
+
+Task 22 :
+No Comment, Perfect.
+
+Task 23 :
+For validation works perfect.
+on my device page renders without styling
+although you used the right component
+so i will asume the page is perfect.
+please send me a screenshot of the design you intended to make sure.
+
+Task 24 :
+No Comment, Perfect.
+
+Task 25 :
+No Comment, Perfect.
+
+I have done giving feedback for your tasks, expect one missing.
+your overall perfomance was great.
+soon i will add the mark.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
