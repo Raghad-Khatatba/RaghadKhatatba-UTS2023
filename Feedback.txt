@@ -1,10 +1,12 @@
 first i want to thank you for the orginaized work, it shows how much you cares and want to learn.
 Task 1 :
 No Comment, Excellecnt Work.
+4/4
 
 Task 2 :
 Table is overstreched, you had the right idea but missed the value, make width 50% instead of 100%
 Otherwise Great
+3/4
 
 Task 3 : 
 we dont want to make the page pink, we want to make it pink when the width is less than 700px
@@ -15,15 +17,18 @@ you can fix that by relocating the body style to the following tag
   }
 }
 Everything else is perfect
+3/4
 
 Task 4 :
 Some notes but neglectable,
 you have problems with responsive view,
 you can fix it by adding the following tag to the head
   <meta name="viewport" content="width=device-width, initial-scale=1">
+3/4
 
 Task5 :
 No Comment, Perfect.
+4/4
 
 Task 6 : 
 You forgot adding tooltip, 
@@ -51,25 +56,32 @@ Otherwise,Good Job
 
 Good Work
 
+3/4
+
 Task 7 :
 Some notes but neglectable,
 Good Job
+4/4
 
 Task 8 : 
 No Comment, Perfect.
+4/4
 
 Task 9 : 
 You Forgot make it responsive, dont worry about it.
 Perfect.
+3/4
 
 Task 10 :
 Same As Task 9, This one on me , i was late on feedback
 Good Job
+4/4
 
 Task 11 :
 You made it like the IPhone caluclator, not having all equation on screen then caluclate
 Which is AWESOME. MUCH harder job
 PERFECT WORK.
+5/4
 
 Task 12 :
 It was a nice touch filling the other field in converting, however,
@@ -80,22 +92,28 @@ the easy way, remove filling the other field and add a check if both values are 
 the hard way, makes the task complicated, by checking if both values are entered and the converting wasnt right ( it wasn't made by you ) returning error
 And / Or, when changing one value, clear the other field.
 Good Work.
+3/4
 
 Task 13 :
 No Comment, Perfect.
+4/4
 
 Task 14 :
 No Comment, Perfect.
+4/4
 
 Task 15 :
 Awesome, AWESOME, Good Job.
+4/4
 
 Task 16 :
 Good Job Turning a template to your own work.
 Perfect.
+4/4
 
 Task 17 :
 No Comment, Perfect.
+4/4
 
 Task 18 :
 Two Comments
@@ -104,18 +122,23 @@ you can fix that by changing the X to *, so the evaluate can calucalte it.
 and a small note about that extra large display;
 you can fix that by changing the width and giving it auto margin.
 Good Job.
+3/4
 
 Task 19 :
 No Comment, Perfect.
+4/4
 
 Task 20 :
 No Comment, Perfect.
+4/4
 
 Task 21 :
 No Comment, Perfect.
+4/4
 
 Task 22 :
 No Comment, Perfect.
+4/4
 
 Task 23 :
 For validation works perfect.
@@ -124,16 +147,21 @@ although you used the right component
 so i will asume the page is perfect.
 after reviewng the screenshot
 Great Job.
+4/4
 
 Task 24 :
 No Comment, Perfect.
+4/4
 
 Task 25 :
 No Comment, Perfect.
+4/4
 
 I have done giving feedback for your tasks.
 your overall perfomance was great.
-soon i will add the mark.
+
+94/100
+19/20
 
 
 
